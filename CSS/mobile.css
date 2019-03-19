@@ -1,0 +1,56 @@
+
+
+.container {
+  padding: 0;
+}
+
+
+.showcase-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  width: 100%;
+}
+
+.bg-dark {
+  padding: 1.5rem;
+}
+
+.wedding {
+  padding: 1.5rem 0.75rem;
+}
+
+
+.wedding-title {
+  padding: 1.3rem;
+  width: 275px;
+  height: 165px;
+}
+
+
+.wedding-title h2 {
+  font-size: 1.3rem;
+}
+
+
+.wedding-title h1 {
+  font-size: 2rem;
+  padding: 0.7rem 0;
+}
+
+.wedding-title p {
+  font-size: 1rem;
+  padding: 0.5rem 0;
+}
+
+#footer {
+  padding: 2rem;
+}
+
+img {
+  width: 100%;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: 1fr;
+}
